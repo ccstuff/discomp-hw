@@ -1,0 +1,100 @@
+Divesh Srivastava
+Jiawei Han 0001
+Beng Chin Ooi
+Jeffrey Xu Yu
+Xuemin Lin
+Kian-Lee Tan
+Surajit Chaudhuri
+Lei Chen 0002
+Philip S. Yu
+Samuel Madden
+Haixun Wang
+Mohamed F. Mokbel
+Elke A. Rundensteiner
+Nick Koudas
+H. V. Jagadish
+Gautam Das
+Guoliang Li 0001
+Christian S. Jensen
+Michael J. Franklin
+Jeffrey F. Naughton
+Johannes Gehrke
+Anthony K. H. Tung
+Jignesh M. Patel
+Joseph M. Hellerstein
+Donald Kossmann
+Amol Deshpande
+Wenfei Fan
+Hector Garcia-Molina
+Xiaokui Xiao
+Yufei Tao
+Tova Milo
+Divyakant Agrawal
+Nikos Mamoulis
+Anastasia Ailamaki
+Jun Yang 0001
+Ihab F. Ilyas
+Shivnath Babu
+Jian Pei
+Amr El Abbadi
+Xifeng Yan
+Xiaofang Zhou
+Gerhard Weikum
+Dan Suciu
+Gao Cong
+Alon Y. Halevy
+Feifei Li 0001
+Christoph Koch 0001
+AnHai Doan
+Laks V. S. Lakshmanan
+Minos N. Garofalakis
+Graham Cormode
+Wenjie Zhang
+Lu Qin
+Magdalena Balazinska
+Jianhua Feng
+Neoklis Polyzotis
+Volker Markl
+Raghu Ramakrishnan
+Carlo Zaniolo
+Walid G. Aref
+Jennifer Widom
+Tim Kraska
+Bin Cui 0001
+Ying Zhang 0001
+Michael Stonebraker
+Wei Wang 0011
+Dimitris Papadias
+Sourav S. Bhowmick
+Sihem Amer-Yahia
+Christos Faloutsos
+Charu C. Aggarwal
+Cong Yu 0001
+Thomas Neumann 0001
+Vivek R. Narasayya
+Jianzhong Li
+Ashraf Aboulnaga
+Kevin Chen-Chuan Chang
+Gustavo Alonso
+Man Lung Yiu
+Stratos Idreos
+Raghav Kaushik
+Panos K. Chrysanthis
+Ke Yi
+Elisa Bertino
+Zhenjie Zhang
+Aoying Zhou
+Reynold Cheng
+Alfons Kemper
+Flip Korn
+Mourad Ouzzani
+Gang Chen 0001
+Wolfgang Lehner
+S. Sudarshan 0001
+Chen Li 0001
+Xin Luna Dong
+Aditya G. Parameswaran
+Yannis Papakonstantinou
+Michael J. Carey 0001
+Jayant R. Haritsa
+Hans-Arno Jacobsen
